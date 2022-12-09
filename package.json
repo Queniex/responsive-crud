@@ -1,0 +1,23 @@
+{
+  "name": "responsive-crud",
+  "version": "1.0.0",
+  "description": "<h1>Learning making a responsive page<h1>\r <hr>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Queniex/responsive-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Queniex/responsive-crud/issues"
+  },
+  "homepage": "https://github.com/Queniex/responsive-crud#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
