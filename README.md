@@ -1,2 +1,2 @@
-##Learning making a responsive page
+##Learning making a responsive page##
 <hr>
